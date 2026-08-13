@@ -1,0 +1,8 @@
+Place your actual resume file here and name it exactly: resume.pdf
+
+So the final path should be:
+client/public/resume.pdf
+
+The "Download Resume" button in the Hero section links to "/resume.pdf",
+so as long as the file is named correctly and placed here, it will work
+automatically. You can delete this text file after adding your resume.
