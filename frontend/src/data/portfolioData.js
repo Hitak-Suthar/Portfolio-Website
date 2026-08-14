@@ -76,7 +76,7 @@ export const projects = [
       "A text utility web application built with React.js featuring text case conversion, extra space removal, word and character count, reading time estimation, and one-click copy. Focused on clean UI and efficient text processing.",
     technologies: ["React.js"],
     github: "https://github.com/Hitak-Suthar/TextUtils-React",
-    liveDemo: "",
+    liveDemo: "https://textutils-react-vgb7.onrender.com/",
   },
   {
     title: "Furniture Website",
