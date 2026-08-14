@@ -54,22 +54,22 @@ export const education = {
 
 
 export const projects = [
-  {
-    title: "QR Code Generator",
-    description:
-      "A responsive web app built with HTML, CSS and JavaScript that generates QR codes in real time based on user input.",
-    technologies: ["HTML", "CSS", "JavaScript"],
-    github: "",
-    liveDemo: "",
-  },
-  {
-    title: "Real-Time Clock",
-    description:
-      "A responsive clock built with HTML, CSS and JavaScript that updates live using the system time.",
-    technologies: ["HTML", "CSS", "JavaScript"],
-    github: "",
-    liveDemo: "",
-  },
+  // {
+  //   title: "QR Code Generator",
+  //   description:
+  //     "A responsive web app built with HTML, CSS and JavaScript that generates QR codes in real time based on user input.",
+  //   technologies: ["HTML", "CSS", "JavaScript"],
+  //   github: "",
+  //   liveDemo: "",
+  // },
+  // {
+  //   title: "Real-Time Clock",
+  //   description:
+  //     "A responsive clock built with HTML, CSS and JavaScript that updates live using the system time.",
+  //   technologies: ["HTML", "CSS", "JavaScript"],
+  //   github: "",
+  //   liveDemo: "",
+  // },
   {
     title: "TextUtils - Text Manipulation Web App",
     description:
