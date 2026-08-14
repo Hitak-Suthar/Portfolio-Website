@@ -75,7 +75,7 @@ export const projects = [
     description:
       "A text utility web application built with React.js featuring text case conversion, extra space removal, word and character count, reading time estimation, and one-click copy. Focused on clean UI and efficient text processing.",
     technologies: ["React.js"],
-    github: "",
+    github: "https://github.com/Hitak-Suthar/TextUtils-React",
     liveDemo: "",
   },
   {
@@ -83,7 +83,7 @@ export const projects = [
     description:
       "A fully responsive furniture landing page built with React.js and Tailwind CSS, using reusable UI components, modern layouts and responsive navigation optimized for desktop, tablet and mobile.",
     technologies: ["React.js", "Tailwind CSS"],
-    github: "",
+    github: "https://github.com/Hitak-Suthar/FurniStyle",
     liveDemo: "https://furni-style-ochre.vercel.app/",
   },
 ];
