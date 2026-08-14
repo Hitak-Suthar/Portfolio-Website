@@ -24,7 +24,7 @@ function Projects() {
 
             <div className="project-links">
               <a
-                href={project.github || "#"}
+                href={project.github}
                 target={project.github ? "_blank" : "_self"}
                 rel="noreferrer"
                 className="btn btn-outline"
