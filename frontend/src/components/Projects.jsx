@@ -32,7 +32,7 @@ function Projects() {
                 <FaGithub /> GitHub Link
               </a>
               <a
-                href={project.liveDemo || "#"}
+                href={project.liveDemo}
                 target={project.liveDemo ? "_blank" : "_self"}
                 rel="noreferrer"
                 className="btn btn-outline"
